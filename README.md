@@ -1,0 +1,1 @@
+# -Treinamento-da-Rede-YOLO-com-o-Dataset-Thermal-Dogs-and-People
